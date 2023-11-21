@@ -24,3 +24,6 @@ Another piece of wisdom in programming is the importance of writing clean, well-
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
 
 This quote highlights the ongoing challenge that programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also reminds us of the importance of considering the end-user when designing and developing software, as even the most sophisticated program can be rendered useless by a user who doesn't understand how to use it properly.
+
+# 2023-11-21
+- "Programming wisdom for today: 'Code is read much more often than it is written. Therefore, write code as if you were writing a book for someone else to read.' This quote by Steve McConnell highlights the importance of writing clean, readable, and well-documented code. It's not only about making your life easier when you revisit your code in the future, but also about making it easy for others to understand and contribute to your work. So take the time to write clear comments, use descriptive variable names, and structure your code in a logical way. Your future self (and your colleagues) will thank you!"
