@@ -59,3 +59,6 @@ To stay ahead of the curve, make time to attend conferences, read industry blogs
 1. Prioritize tasks: When you are working on a project, it is important to determine which tasks are most important and which can be completed later. By prioritizing your tasks in this way, you can make sure that you focus on the most critical aspects of the project first.
 2. Plan ahead: By planning ahead for your project or task, You can avoid last-minute panic and ensure that everything is in place for a smooth and successful completion. Break down your projects into smaller, manageable tasks and set deadlines for each one. Then, prioritize these tasks to make certain that your time is being used efficiently. 
 3. Stay organized: Keeping your workspace and thoughts organized is crucial for success in programming. Use task management tools, such as Trello or Asana, to track your progress and make notes of any issues or ideas that come up during your workflow. Organizing and documenting your thoughts in real-time will save you time and frustration later on.
+
+# 2023-11-29
+- "Keep it simple, stupid!"
