@@ -78,3 +78,6 @@ Optimizing code before it's necessary can lead to overly complex and difficult-t
 
 # 2023-12-03
 - Today's programming wisdom is to always keep learning and improving your skills. Technology is constantly evolving, and as a programmer, it's important to stay up-to-date with the latest trends and best practices. This means regularly reading industry blogs and articles, attending conferences and workshops, and experimenting with new tools and techniques. By making a commitment to lifelong learning, you can ensure that you're always at the top of your game and able to deliver high-quality code that meets the needs of your clients and users.
+
+# 2023-12-04
+- Today's programming wisdom is to prioritize writing readable and maintainable code over clever or complex code. It's important to remember that code is read far more often than it is written, and future you (or your colleagues) will thank you for clear and concise code that is easy to understand and modify. Additionally, it's important to embrace the fact that bugs are inevitable and to write code with debugging in mind. This means using appropriate error handling, adding comments to explain tricky sections of code, and writing unit tests to catch regressions early on.
