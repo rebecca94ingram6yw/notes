@@ -84,3 +84,9 @@ Optimizing code before it's necessary can lead to overly complex and difficult-t
 
 # 2023-12-05
 - Today's programming wisdom is to prioritize writing readable and maintainable code over clever or complex code. It's important to remember that code is read far more often than it is written, so making it easy for others (and your future self) to understand is crucial. This means using clear and descriptive variable names, writing concise and well-organized functions, and commenting your code effectively. Additionally, it's important to avoid unnecessary complexity and to always consider the potential edge cases and error scenarios in your code. By prioritizing readability and maintainability, you can save yourself and your team time and headaches down the road.
+
+# 2023-12-06
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Secondly, planning ahead is crucial. Make sure you have a plan for your day, week, or even month. Knowing what you want to achieve and when will keep you on track and prevent you from getting sidetracked. Use task management tools like Trello or Asana to help organize your workload. These tools can help keep track of your progress and make it easier to stay focused. 
+ 最终，保持组织是关键。确保你的工作空间整洁，你的代码组织良好，并且你有足够的备份。这将帮助你更快地找到错误，避免重复工作，并确保你有一个可维护的代码库。记住，良好的习惯需要时间才能建立起来，但它们将使你的编程之旅更加愉快和高效。
