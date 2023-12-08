@@ -93,3 +93,6 @@ Secondly, planning ahead is crucial. Make sure you have a plan for your day, wee
 
 # 2023-12-07
 - "Keep it simple, stupid!"
+
+# 2023-12-08
+- "Keep it simple, stupid!"
