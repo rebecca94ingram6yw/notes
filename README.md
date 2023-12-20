@@ -140,3 +140,11 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-19
 - "Keep it simple, stupid!"
+
+# 2023-12-20
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By determining which tasks are most important and which can wait, you can make sure that you focus on the right things. Use a task management tool, such as Trello or Asana, to keep track of your priorities and make adjustments as needed. 
+ -
+其次，提前计划。在开始一个项目之前，先了解项目的整体结构和要求。这将帮助你在编写代码时避免在后期发现发现设计缺陷或遗漏的功能。制定一个详细的计划，包括设计文档、代码结构和测试用例。这样，当你开始编写实际代码时可以更加自信和高效。
+- 保持组织。一个整洁、有组织的代码库可以让你更容易找到所需的信息和功能。使用版本控制系统，如Git，来跟踪代码更改。确保你的代码遵循一致的命名约定和代码风格指南。定期审查和重构代码，以保持其质量和可维护性。 通过遵循这些最佳实践，你将能够更有效地编写高质量的代码。
