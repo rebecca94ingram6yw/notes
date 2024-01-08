@@ -230,3 +230,6 @@ In more detail but still concise: "Simplicity and readability are crucial virtue
 8. Keep a notebook or digital record of your code and projects. Documenting your work will save you time and effort in case you want to revisit or contribute to a project in future.        
 9. Be open to feedback and criticism: It'll help improve and refine your skills and make your coding better. Always try to understand the rationale behind the feedback you receive.       
    10. Stay humble and eager to Learn: There'
+
+# 2024-01-08
+- "Keep it simple, stupid!"
